@@ -1,0 +1,9 @@
+main: tacticalaxis.tc.Main
+version: 1.0
+author: TacticalAxis
+name: Tree-Capitator
+website: https://pixelcubemc.ddns.net/tacticalaxis/
+description: This is the server alternative to the tree capitator mod
+commands:
+  tc:
+    description: Capitate a tree

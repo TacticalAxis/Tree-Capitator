@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Tree-Capitator:jar">
+    <output-path>$PROJECT_DIR$/../../../../../Desktop/TestingServer/plugins/</output-path>
+    <root id="archive" name="Tree-Capitator.jar">
+      <element id="module-output" name="Tree-Capitator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../PixelCubeMC Network/Libraries/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

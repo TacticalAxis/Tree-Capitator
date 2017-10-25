@@ -1,0 +1,55 @@
+###########################################################################################
+#            ___   __  __ ______ ____        ___    ___   __  ___ ____   __  __ ___       #
+#           / _ | / / / //_  __// __ \ ____ / _ |  / _ \ /  |/  // __ \ / / / // _ \      #
+#          / __ |/ /_/ /  / /  / /_/ //___// __ | / , _// /|_/ // /_/ // /_/ // , _/      #
+#         /_/ |_|\____/ _/_/_ _\____/___ _/_/_|_|/_/|_|/_/__/_/ \____/ \____//_/|_|       #
+#                        / ___// // // __// ___// //_// __// _ \                          #
+#                       / /__ / _  // _/ / /__ / ,<  / _/ / , _/                          #
+#                       \___//_//_//___/ \___//_/|_|/___//_/|_|                           #
+#                                                                                         #
+###########################################################################################
+#                          AUTO-ARMOUR CHECKER - by TacticalAxis                          #
+###########################################################################################
+#  Welcome to the configuration file of the Auto-Armour Checker plugin. This aim is to    #
+#  help servers with the problem of players using hacked clients on their server. This    #
+#  plugin specifically helps players who use the Auto-Armour hack. This hack allows them  #
+#  to automatically put on armour, without having to click on the armour. This plugin     #
+#  helps in such a way, that if you see someone automatically put armour on you can just  #
+#  type in the command and it will take off all their armour and put it back into their   #
+#  inventory.  You can tell that they are using this hack if the armour appears on them   #
+#  automatically. If their inventory is full, then their armour is automatically dropped  #
+#  onto the ground. Thanks for downloading this plugin. Your support is really            #
+#  appreciated. I hope you enjoy the plugin! Please leave a review on the plugin page to  #
+#  support me!                                                                            #
+###########################################################################################
+
+# THIS IS A FREE PLUGIN THAT IS MADE BY ME - TACTICALAXIS
+# You can change the in-game name of the plugin for server purposes, but feel free to leave
+# the plugin name as the default to support me!
+plugin-name: '&5[TREE-CAPITATOR] &7by &2TacticalAxis'
+
+###########################################################################################
+#                        CUSTOMISABLE CONFIGURATION - PLAYER MESSAGES                     #
+###########################################################################################
+server-name: '&2[MyServerName]'
+arrow-head: '&7>>'
+tree-capitate-message: '&a{target}&7''s armour was taken off!'
+no-permission-message: '&cYou do not have permission to use this command!'
+offline-player-message: '&cThat player either does not exist, or is offline!'
+cmd-usage-message: '&4Usage: &c/ac <player>'
+console-message: '&4You are not a player! Only players can use this command!'
+
+###########################################################################################
+#                                 A SIDE NOTE FROM THE AUTHOR                             #
+###########################################################################################
+#  Leave me a review on the plugin page. Any feedback is greatly appreciated. It wouldn't #
+#  matter if your feedback is good or bad. It just needs to be an honest review.          #
+###########################################################################################
+
+###########################################################################################
+#              _________  _______________________   __   ___   _  __________              #
+#             /_  __/ _ |/ ___/_  __/  _/ ___/ _ | / /  / _ | | |/_/  _/ __/              #
+#              / / / __ / /__  / / _/ // /__/ __ |/ /__/ __ |_>  <_/ /_\ \                #
+#             /_/ /_/ |_\___/ /_/ /___/\___/_/ |_/____/_/ |_/_/|_/___/___/                #
+#                                                                                         #
+###########################################################################################
